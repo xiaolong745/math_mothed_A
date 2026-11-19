@@ -1,0 +1,16 @@
+{
+  "scope": "existing official evidence; no new evaluator invocation",
+  "mean_5core_speedup": 4.170273563779286,
+  "frozen_120": {
+    "relative_stage1_improvement": {
+      "improved": 76,
+      "tied": 44,
+      "degraded": 0
+    },
+    "relative_stage2_improvement": {
+      "improved": 34,
+      "tied": 86,
+      "degraded": 0
+    }
+  }
+}

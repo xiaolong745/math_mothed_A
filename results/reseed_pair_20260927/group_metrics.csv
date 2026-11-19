@@ -1,0 +1,5 @@
+combos,complete_pairs,cores,improved,incomplete_pairs,mean_delta,median_delta,problem,regressed,tied
+10,3,2,3,7,64777.666666666664,39132.0,1,0,0
+10,3,3,3,7,52339.666666666664,27600.0,1,0,0
+10,4,4,3,6,69315.25,74996.5,1,1,0
+10,4,5,4,6,76889.5,81952.0,1,0,0

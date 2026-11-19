@@ -1,0 +1,28 @@
+name: Repository checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run existing tests
+        run: python -m unittest discover -s tests -v
+      - name: Verify frozen artifacts
+        run: python results/paper_freeze_20260927/verify_freeze.py
+      - name: Validate published score evidence
+        run: python -m tools.report_published_scores
+      - name: Verify official code and input hashes
+        run: python -m tools.verify_repository_inputs

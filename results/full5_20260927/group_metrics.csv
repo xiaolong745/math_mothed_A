@@ -1,0 +1,4 @@
+complete,degraded_vs_stage1,failed_or_timeout,improved_vs_stage1,mean_speedup_completed_only,median_speedup_completed_only,min_speedup_completed_only,partial,pending,problem,requested,scored_complete,tied_vs_stage1
+83,0,0,63,3.280300362626915,3.2967331950760097,1.118417973320852,17,0,1,100,83,20
+94,0,0,60,4.144511209569023,4.604934464148034,1.718503042964847,6,0,2,100,93,33
+93,0,0,64,4.296188592733583,4.729563002467564,1.8670824979579714,7,0,3,100,93,29

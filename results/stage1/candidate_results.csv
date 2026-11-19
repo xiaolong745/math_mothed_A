@@ -1,0 +1,160 @@
+added_copy_bytes,cache_hit_rate,candidate_name,case,legal,makespan,num_cores,params,problem,reason,runtime
+4325248,,simple,case_001,True,181300,4,{},1,,0.4196767029934563
+229248,,region_grow,case_001,True,102300,4,"{'max_ops_per_sg': 37, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.1961944499926176
+2686848,,bandcomp,case_001,True,148700,4,"{'band_width': 2, 'max_ops_per_sg': 148, 'max_depth': 2}",1,,0.31825409999873955
+626048,,simple,case_001,True,78028,4,{},2,,0.12875027199334
+3456,,region_grow,case_001,True,58984,4,"{'max_ops_per_sg': 37, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.11141867699916475
+626048,,bandcomp,case_001,True,78028,4,"{'band_width': 2, 'max_ops_per_sg': 148, 'max_depth': 2}",2,,0.12733010899682995
+626048,0.0,simple,case_001,True,78028,4,{},3,,0.1354700999945635
+3456,0.0,region_grow,case_001,True,58984,4,"{'max_ops_per_sg': 37, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.11715881500276737
+626048,0.0,bandcomp,case_001,True,78028,4,"{'band_width': 2, 'max_ops_per_sg': 148, 'max_depth': 2}",3,,0.13716563700290862
+8289792,,simple,case_002,True,221336,4,{},1,,2.0643024610035354
+159744,,region_grow,case_002,True,80307,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.267655839008512
+115200,,region_grow,case_002,True,79746,4,"{'max_ops_per_sg': 128, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.32617638500232715
+8289792,,bandcomp,case_002,True,221336,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 23}",1,,2.0460810649965424
+5442048,,bandcomp,case_002,True,202933,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 23}",1,,0.9406714390061097
+2213376,,bandcomp,case_002,True,136648,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 23}",1,,0.5474068480107235
+640512,,bandcomp,case_002,True,103079,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 23}",1,,0.3668848820088897
+6541824,,simple,case_002,True,131732,4,{},2,,0.6466371709975647
+98304,,region_grow,case_002,True,73170,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.2246824519970687
+98304,,region_grow,case_002,True,74178,4,"{'max_ops_per_sg': 128, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.22608957599732094
+6541824,,bandcomp,case_002,True,131732,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 23}",2,,0.6467986880015815
+5148672,,bandcomp,case_002,True,108278,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 23}",2,,0.478996673002257
+1999872,,bandcomp,case_002,True,66836,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 23}",2,,0.32748837300459854
+480768,,bandcomp,case_002,True,68322,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 23}",2,,0.2504548269935185
+6541824,0.000437636761487965,simple,case_002,True,131655,4,{},3,,0.7045445159892552
+98304,0.0,region_grow,case_002,True,73170,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.23083820499596186
+98304,0.0,region_grow,case_002,True,74178,4,"{'max_ops_per_sg': 128, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.23525416098709684
+6541824,0.000437636761487965,bandcomp,case_002,True,131655,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 23}",3,,0.725377662005485
+5148672,0.0,bandcomp,case_002,True,108278,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 23}",3,,0.5168820440012496
+1999872,0.0,bandcomp,case_002,True,66836,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 23}",3,,0.3471120530011831
+480768,0.0018050541516245488,bandcomp,case_002,True,68322,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 23}",3,,0.263847608002834
+21030912,,simple,case_004,True,479850,4,{},1,,0.5889817400020547
+12165120,,region_grow,case_004,True,252303,4,"{'max_ops_per_sg': 48, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.18064518499886617
+18302976,,bandcomp,case_004,True,407397,4,"{'band_width': 2, 'max_ops_per_sg': 192, 'max_depth': 5}",1,,0.4081361420103349
+13870080,,bandcomp,case_004,True,310630,4,"{'band_width': 4, 'max_ops_per_sg': 192, 'max_depth': 5}",1,,0.2445096529991133
+4657152,,simple,case_004,True,126159,4,{},2,,0.2323169540031813
+331776,,region_grow,case_004,True,104188,4,"{'max_ops_per_sg': 48, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.11702106999291573
+6057984,,bandcomp,case_004,True,140186,4,"{'band_width': 2, 'max_ops_per_sg': 192, 'max_depth': 5}",2,,0.23501989999203943
+2036736,,bandcomp,case_004,True,101324,4,"{'band_width': 4, 'max_ops_per_sg': 192, 'max_depth': 5}",2,,0.15254790701146703
+4657152,0.18471337579617833,simple,case_004,True,123660,4,{},3,,0.25012586399680004
+331776,0.0,region_grow,case_004,True,104188,4,"{'max_ops_per_sg': 48, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.12155091699969489
+6057984,0.16939078751857356,bandcomp,case_004,True,138006,4,"{'band_width': 2, 'max_ops_per_sg': 192, 'max_depth': 5}",3,,0.24772891800967045
+2036736,0.3217391304347826,bandcomp,case_004,True,101324,4,"{'band_width': 4, 'max_ops_per_sg': 192, 'max_depth': 5}",3,,0.1573913989996072
+6019204,,simple,case_006,True,136977,4,{},1,,0.5045590020017698
+500980,,region_grow,case_006,True,38492,4,"{'max_ops_per_sg': 42, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.13585170199803542
+238736,,region_grow,case_006,True,32139,4,"{'max_ops_per_sg': 84, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.12532875999750104
+6019204,,bandcomp,case_006,True,136977,4,"{'band_width': 1, 'max_ops_per_sg': 168, 'max_depth': 21}",1,,0.5071504779916722
+3396790,,bandcomp,case_006,True,82734,4,"{'band_width': 2, 'max_ops_per_sg': 168, 'max_depth': 21}",1,,0.309841038993909
+1840382,,bandcomp,case_006,True,50097,4,"{'band_width': 4, 'max_ops_per_sg': 168, 'max_depth': 21}",1,,0.206188703989028
+511204,,bandcomp,case_006,True,27298,4,"{'band_width': 8, 'max_ops_per_sg': 168, 'max_depth': 21}",1,,0.14055291100521572
+4586122,,simple,case_006,True,89373,4,{},2,,0.1999517630029004
+208588,,region_grow,case_006,True,29031,4,"{'max_ops_per_sg': 42, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.120041535992641
+61184,,region_grow,case_006,True,31425,4,"{'max_ops_per_sg': 84, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.10636380800860934
+4586126,,bandcomp,case_006,True,89374,4,"{'band_width': 1, 'max_ops_per_sg': 168, 'max_depth': 21}",2,,0.23048095899866894
+2638220,,bandcomp,case_006,True,55514,4,"{'band_width': 2, 'max_ops_per_sg': 168, 'max_depth': 21}",2,,0.16942016099346802
+1340552,,bandcomp,case_006,True,34981,4,"{'band_width': 4, 'max_ops_per_sg': 168, 'max_depth': 21}",2,,0.13806756799749564
+356660,,bandcomp,case_006,True,26843,4,"{'band_width': 8, 'max_ops_per_sg': 168, 'max_depth': 21}",2,,0.11468534900632221
+4586122,0.12477718360071301,simple,case_006,True,84232,4,{},3,,0.21453978300269227
+208588,0.1925133689839572,region_grow,case_006,True,28997,4,"{'max_ops_per_sg': 42, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.1168150260054972
+61184,0.09333333333333334,region_grow,case_006,True,31425,4,"{'max_ops_per_sg': 84, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.10730602400144562
+4586126,0.12455516014234876,bandcomp,case_006,True,84233,4,"{'band_width': 1, 'max_ops_per_sg': 168, 'max_depth': 21}",3,,0.22290960598911624
+2638220,0.19861431870669746,bandcomp,case_006,True,48327,4,"{'band_width': 2, 'max_ops_per_sg': 168, 'max_depth': 21}",3,,0.17993796500377357
+1340552,0.21212121212121213,bandcomp,case_006,True,29106,4,"{'band_width': 4, 'max_ops_per_sg': 168, 'max_depth': 21}",3,,0.1432045280089369
+356660,0.125,bandcomp,case_006,True,26843,4,"{'band_width': 8, 'max_ops_per_sg': 168, 'max_depth': 21}",3,,0.12929075000283774
+23970816,,simple,case_008,True,588824,4,{},1,,0.6778346030041575
+0,,region_grow,case_008,True,157796,4,"{'max_ops_per_sg': 54, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.19223767101357225
+11985408,,bandcomp,case_008,True,366344,4,"{'band_width': 2, 'max_ops_per_sg': 216, 'max_depth': 7}",1,,0.412428806987009
+3981312,,bandcomp,case_008,True,227024,4,"{'band_width': 4, 'max_ops_per_sg': 216, 'max_depth': 7}",1,,0.26340682699810714
+15751680,,simple,case_008,True,372034,4,{},2,,0.24974303499038797
+0,,region_grow,case_008,True,123060,4,"{'max_ops_per_sg': 54, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.15325404600298498
+9460224,,bandcomp,case_008,True,233068,4,"{'band_width': 2, 'max_ops_per_sg': 216, 'max_depth': 7}",2,,0.2057470340077998
+3096576,,bandcomp,case_008,True,104264,4,"{'band_width': 4, 'max_ops_per_sg': 216, 'max_depth': 7}",2,,0.17077967298973817
+15751680,0.0,simple,case_008,True,372034,4,{},3,,0.2720395579963224
+0,0.0,region_grow,case_008,True,123060,4,"{'max_ops_per_sg': 54, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.16168018699681852
+9460224,0.0,bandcomp,case_008,True,233068,4,"{'band_width': 2, 'max_ops_per_sg': 216, 'max_depth': 7}",3,,0.22645363099582028
+3096576,0.0,bandcomp,case_008,True,104264,4,"{'band_width': 4, 'max_ops_per_sg': 216, 'max_depth': 7}",3,,0.18428198699257337
+5254384,,simple,case_010,True,120327,4,{},1,,0.49109420299646445
+615622,,region_grow,case_010,True,38515,4,"{'max_ops_per_sg': 41, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.12753830500878394
+547344,,region_grow,case_010,True,30874,4,"{'max_ops_per_sg': 82, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.1232182469975669
+5254384,,bandcomp,case_010,True,120212,4,"{'band_width': 1, 'max_ops_per_sg': 164, 'max_depth': 61}",1,,0.49773256700427737
+3202072,,bandcomp,case_010,True,78454,4,"{'band_width': 2, 'max_ops_per_sg': 164, 'max_depth': 61}",1,,0.3083855340082664
+1485368,,bandcomp,case_010,True,41845,4,"{'band_width': 4, 'max_ops_per_sg': 164, 'max_depth': 61}",1,,0.1948923769959947
+710360,,bandcomp,case_010,True,29641,4,"{'band_width': 8, 'max_ops_per_sg': 164, 'max_depth': 61}",1,,0.15034852700773627
+4270540,,simple,case_010,True,80596,4,{},2,,0.206405659992015
+368436,,region_grow,case_010,True,29581,4,"{'max_ops_per_sg': 41, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.1044609539967496
+98304,,region_grow,case_010,True,29916,4,"{'max_ops_per_sg': 82, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.10076212100102566
+4270636,,bandcomp,case_010,True,80596,4,"{'band_width': 1, 'max_ops_per_sg': 164, 'max_depth': 61}",2,,0.20332084099936765
+2405436,,bandcomp,case_010,True,48000,4,"{'band_width': 2, 'max_ops_per_sg': 164, 'max_depth': 61}",2,,0.16351031098747626
+1043216,,bandcomp,case_010,True,26456,4,"{'band_width': 4, 'max_ops_per_sg': 164, 'max_depth': 61}",2,,0.1279164400039008
+183592,,bandcomp,case_010,True,29471,4,"{'band_width': 8, 'max_ops_per_sg': 164, 'max_depth': 61}",2,,0.10589900700142607
+4270540,0.17147707979626486,simple,case_010,True,74195,4,{},3,,0.2228047439857619
+368436,0.2534246575342466,region_grow,case_010,True,28864,4,"{'max_ops_per_sg': 41, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.1103400299907662
+98304,0.09821428571428571,region_grow,case_010,True,29893,4,"{'max_ops_per_sg': 82, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.1048725930013461
+4270636,0.1711864406779661,bandcomp,case_010,True,74195,4,"{'band_width': 1, 'max_ops_per_sg': 164, 'max_depth': 61}",3,,0.22342845100502018
+2405436,0.16,bandcomp,case_010,True,43676,4,"{'band_width': 2, 'max_ops_per_sg': 164, 'max_depth': 61}",3,,0.17989957000827417
+1043216,0.23622047244094488,bandcomp,case_010,True,24468,4,"{'band_width': 4, 'max_ops_per_sg': 164, 'max_depth': 61}",3,,0.1357297129870858
+183592,0.1342281879194631,bandcomp,case_010,True,29471,4,"{'band_width': 8, 'max_ops_per_sg': 164, 'max_depth': 61}",3,,0.1132421130023431
+2460728,,simple,case_012,True,79971,4,{},1,,0.870787656007451
+152672,,region_grow,case_012,True,22664,4,"{'max_ops_per_sg': 60, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.20452240599843208
+101376,,region_grow,case_012,True,20265,4,"{'max_ops_per_sg': 120, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.18513945500308182
+2460728,,bandcomp,case_012,True,79756,4,"{'band_width': 1, 'max_ops_per_sg': 240, 'max_depth': 18}",1,,0.87083047098713
+1434792,,bandcomp,case_012,True,48413,4,"{'band_width': 2, 'max_ops_per_sg': 240, 'max_depth': 18}",1,,0.502388187989709
+781092,,bandcomp,case_012,True,31426,4,"{'band_width': 4, 'max_ops_per_sg': 240, 'max_depth': 18}",1,,0.3204903129953891
+339072,,bandcomp,case_012,True,23370,4,"{'band_width': 8, 'max_ops_per_sg': 240, 'max_depth': 18}",1,,0.2201651409995975
+1599986,,simple,case_012,True,39147,4,{},2,,0.28422881600272376
+82372,,region_grow,case_012,True,15279,4,"{'max_ops_per_sg': 60, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.15461953698832076
+49536,,region_grow,case_012,True,14689,4,"{'max_ops_per_sg': 120, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.15477239299798384
+1599886,,bandcomp,case_012,True,39130,4,"{'band_width': 1, 'max_ops_per_sg': 240, 'max_depth': 18}",2,,0.28038370599097107
+1046872,,bandcomp,case_012,True,28741,4,"{'band_width': 2, 'max_ops_per_sg': 240, 'max_depth': 18}",2,,0.23788100299134385
+492100,,bandcomp,case_012,True,19300,4,"{'band_width': 4, 'max_ops_per_sg': 240, 'max_depth': 18}",2,,0.19179938100569416
+257060,,bandcomp,case_012,True,16100,4,"{'band_width': 8, 'max_ops_per_sg': 240, 'max_depth': 18}",2,,0.17061312099394854
+1599986,0.1431924882629108,simple,case_012,True,35253,4,{},3,,0.30934971300303005
+82372,0.12540192926045016,region_grow,case_012,True,15279,4,"{'max_ops_per_sg': 60, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.16567502499674447
+49536,0.09574468085106383,region_grow,case_012,True,14689,4,"{'max_ops_per_sg': 120, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.16355690800992306
+1599886,0.14352941176470588,bandcomp,case_012,True,35243,4,"{'band_width': 1, 'max_ops_per_sg': 240, 'max_depth': 18}",3,,0.3092968630080577
+1046872,0.21014492753623187,bandcomp,case_012,True,24001,4,"{'band_width': 2, 'max_ops_per_sg': 240, 'max_depth': 18}",3,,0.26156865200027823
+492100,0.16808510638297872,bandcomp,case_012,True,18276,4,"{'band_width': 4, 'max_ops_per_sg': 240, 'max_depth': 18}",3,,0.2043907220067922
+257060,0.10626702997275204,bandcomp,case_012,True,16035,4,"{'band_width': 8, 'max_ops_per_sg': 240, 'max_depth': 18}",3,,0.1782276199955959
+9060352,,simple,case_013,True,316884,4,{},1,,2.4868286900018575
+2007040,,region_grow,case_013,True,108774,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.6459034610015806
+4022272,,bandcomp,case_013,True,174162,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 3}",1,,1.1584575040033087
+5541888,,simple,case_013,True,137910,4,{},2,,0.6557596399943577
+24576,,region_grow,case_013,True,66982,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.32214299000042956
+1519616,,bandcomp,case_013,True,75207,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 3}",2,,0.4423493659996893
+5541888,0.0,simple,case_013,True,137910,4,{},3,,0.7186262030008947
+24576,0.0,region_grow,case_013,True,66982,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.3490828509966377
+1519616,0.0007347538574577516,bandcomp,case_013,True,75195,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 3}",3,,0.4843755589972716
+5046136,,simple,case_017,True,155076,4,{},1,,1.3771709269931307
+726204,,region_grow,case_017,True,54470,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",1,,0.3090531070047291
+5046136,,bandcomp,case_017,True,153415,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 17}",1,,1.3596893299982185
+3251078,,bandcomp,case_017,True,106277,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 17}",1,,0.768246416002512
+2046276,,bandcomp,case_017,True,71834,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 17}",1,,0.4472810509905685
+965780,,bandcomp,case_017,True,54009,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 17}",1,,0.28909463800664525
+3228912,,simple,case_017,True,74805,4,{},2,,0.4304708710114937
+330340,,region_grow,case_017,True,40210,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",2,,0.2184790869941935
+3228684,,bandcomp,case_017,True,74803,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 17}",2,,0.43877779399917927
+1583948,,bandcomp,case_017,True,54418,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 17}",2,,0.32069005200173706
+1323756,,bandcomp,case_017,True,48724,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 17}",2,,0.268740699000773
+546800,,bandcomp,case_017,True,44877,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 17}",2,,0.2139486429950921
+3228912,0.20044876589379207,simple,case_017,True,68853,4,{},3,,0.4631359819904901
+330340,0.10840108401084012,region_grow,case_017,True,39739,4,"{'max_ops_per_sg': 64, 'depth_window': 0, 'communication_weight': 1.0, 'critical_weight': 0.01}",3,,0.2299551930045709
+3228684,0.19970193740685543,bandcomp,case_017,True,68968,4,"{'band_width': 1, 'max_ops_per_sg': 256, 'max_depth': 17}",3,,0.46634070499567315
+1583948,0.28040540540540543,bandcomp,case_017,True,47599,4,"{'band_width': 2, 'max_ops_per_sg': 256, 'max_depth': 17}",3,,0.33925084899237845
+1323756,0.22439759036144577,bandcomp,case_017,True,47059,4,"{'band_width': 4, 'max_ops_per_sg': 256, 'max_depth': 17}",3,,0.2828904380003223
+546800,0.033942558746736295,bandcomp,case_017,True,44877,4,"{'band_width': 8, 'max_ops_per_sg': 256, 'max_depth': 17}",3,,0.22879559799912386
+5494564,,simple,case_023,True,133755,4,{},1,,0.862925774010364
+5494564,,bandcomp,case_023,True,129633,4,"{'band_width': 1, 'max_ops_per_sg': 252, 'max_depth': 30}",1,,0.867236166013754
+3469468,,bandcomp,case_023,True,88504,4,"{'band_width': 2, 'max_ops_per_sg': 252, 'max_depth': 30}",1,,0.5079436800006079
+2022016,,bandcomp,case_023,True,59934,4,"{'band_width': 4, 'max_ops_per_sg': 252, 'max_depth': 30}",1,,0.3254018420120701
+1156156,,bandcomp,case_023,True,45654,4,"{'band_width': 8, 'max_ops_per_sg': 252, 'max_depth': 30}",1,,0.23044025999843143
+3963038,,simple,case_023,True,75844,4,{},2,,0.31228195800213143
+3962910,,bandcomp,case_023,True,75842,4,"{'band_width': 1, 'max_ops_per_sg': 252, 'max_depth': 30}",2,,0.3179809790017316
+2343794,,bandcomp,case_023,True,49911,4,"{'band_width': 2, 'max_ops_per_sg': 252, 'max_depth': 30}",2,,0.23712940300174523
+1443148,,bandcomp,case_023,True,36013,4,"{'band_width': 4, 'max_ops_per_sg': 252, 'max_depth': 30}",2,,0.2025161549972836
+893988,,bandcomp,case_023,True,34043,4,"{'band_width': 8, 'max_ops_per_sg': 252, 'max_depth': 30}",2,,0.1805532080034027
+3963038,0.1553072625698324,simple,case_023,True,67728,4,{},3,,0.34178807999705896
+3962910,0.15548098434004473,bandcomp,case_023,True,67676,4,"{'band_width': 1, 'max_ops_per_sg': 252, 'max_depth': 30}",3,,0.33869772098842077
+2343794,0.1824212271973466,bandcomp,case_023,True,44703,4,"{'band_width': 2, 'max_ops_per_sg': 252, 'max_depth': 30}",3,,0.2618320009933086
+1443148,0.16590909090909092,bandcomp,case_023,True,33017,4,"{'band_width': 4, 'max_ops_per_sg': 252, 'max_depth': 30}",3,,0.21183959300105926
+893988,0.10256410256410256,bandcomp,case_023,True,31860,4,"{'band_width': 8, 'max_ops_per_sg': 252, 'max_depth': 30}",3,,0.18904146600107197

@@ -1,0 +1,13 @@
+case,complete_comparison,cores,delta_cache_p2_minus_p3,p2_makespan,p3_makespan,status
+case_001,True,2,0,116868,116868,cache_inactive
+case_001,True,3,0,78545,78545,cache_inactive
+case_001,True,4,0,58984,58984,cache_inactive
+case_001,True,5,0,47502,47502,cache_inactive
+case_003,True,2,1217,318524,317307,cache_candidate
+case_003,False,3,,,,cache_unknown
+case_003,False,4,,,,cache_unknown
+case_003,False,5,,,,cache_unknown
+case_005,True,2,248,60801,60553,cache_candidate
+case_005,True,3,1741,52865,51124,cache_candidate
+case_005,True,4,4318,53735,49417,cache_candidate
+case_005,True,5,6636,53716,47080,cache_candidate

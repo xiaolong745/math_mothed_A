@@ -1,0 +1,12 @@
+{
+  "results/residency_20260927/latest_known_5core.csv": "22f67f673b20ac1dcc7b8f2064e6f8288e7685d12e90541b733f1d22837f1b0d",
+  "results/final_frozen_20260927/best_configs.json": "4ab7784733a0c699038a7cc3829b156e7116a7ab6bda68df9a9a5c7beae6e728",
+  "results/reseed_pair_20260927/elite_merged.json": "6a64c1d691fb7166a99f71559a1701b54c650e540f0e3a9439a3298d00a459d0",
+  "results/residency_20260927/best_configs.json": "2d4f03ba97636f0fbc22e286e6761c98155df7d95238d9135c697b8f080bfec3",
+  "results/final_frozen_20260927/summary.csv": "fce2d0deda3d2b508028dca5ddd8f7f193bc7d5cfbdb50117839b60e902a6085",
+  "results/surrogate_selector_ablation_20260927_v5/summary.csv": "f98e6db53629f233c5fe61574ba3e38b56ea03b564d8ae07a1f296159ec9eb41",
+  "results/residency_20260927/method_summary.csv": "7e87fbb43b8306569ad178683a4897724a9aafc22c91c74704e73b90246a95fe",
+  "results/residency_20260927/timeline_diagnostics.csv": "756780d3745a6065e6c1f70d083586f4154ef10b0fbbcf05891511e6d5bb7869",
+  "results/residency_20260927/cache_pairs.csv": "d7f681f7732c9f12032551be549870b9b43fd3b707a82ab1a26252a1c3e404be",
+  "results/residency_20260927/official_integrity.json": "abcb303d5ec7291a769d44202d964c451590b9e9ef9a4d66aee1b24d67c83535"
+}

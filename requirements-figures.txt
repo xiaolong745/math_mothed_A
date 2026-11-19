@@ -1,0 +1,3 @@
+# Optional: only needed by paper/scripts/generate_figures.py.
+matplotlib>=3.7,<4
+numpy>=1.24,<3

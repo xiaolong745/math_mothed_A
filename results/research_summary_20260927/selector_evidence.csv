@@ -1,0 +1,5 @@
+mean_regret_ratio,mean_selected_count,median_regret_ratio,method,official_result_source,pool_optimum_rate,pool_optimum_retained,rows,worst_regret_ratio
+0.0,5.666666666666667,0.0,analytic,saved_calls,1.0,15,15,0.0
+0.0,8.066666666666666,0.0,full,saved_calls,1.0,15,15,0.0
+0.10170634208517747,5.666666666666667,0.0,random,saved_calls,0.5866666666666667,44,75,0.671196745495999
+0.09997891725673781,5.666666666666667,0.0,surrogate,saved_calls,0.6666666666666666,10,15,0.671196745495999

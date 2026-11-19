@@ -1,0 +1,7 @@
+evaluated_combinations,improved,mean_slowdown,method,slower,tied
+24,0,0.3057431330445334,fixed_p_residency,14,10
+24,0,0.24491517690348355,fixed_pc_window,13,11
+24,0,0.7973225616343463,macro_32_heft,24,0
+24,0,1.9358580057719843,macro_32_joint,24,0
+24,0,0.6980300585570371,macro_8_heft,24,0
+24,0,1.873324107691962,macro_8_joint,24,0

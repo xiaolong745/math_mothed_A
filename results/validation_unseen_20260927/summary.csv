@@ -1,0 +1,25 @@
+accepted_pi_move,added_copy_bytes,cache_hit_rate,cache_policy,case,cores,elapsed_combo,makespan,method,official_evaluated,official_singlecore_speedup,oracle_enabled,pi_candidate_count,prediction_only,problem,reason,relative_stage1_improvement,relative_stage2_improvement,runtime,singlecore_makespan,source,stage1_makespan,stage1_source,stage2_makespan,status,used_historical_elite
+False,6512800,,cache_unknown,case_046,4,66.2385550942272,140604,final_elite,True,1.966195840801115,False,6,False,1,,0.0,0.0,0.29158307425677776,276455,stage1_seed,140604,missing_stage1_filled_seed,140604,,False
+False,2791200,,cache_unknown,case_046,4,65.14120184630156,78210,final_elite,True,3.53477816136044,False,6,False,2,,0.0,0.0,0.25028443709015846,276455,stage1_seed,78210,missing_stage1_filled_seed,78210,,False
+False,2791200,0.014423076923076924,cache_unknown,case_046,4,64.59569334983826,78192,final_elite,True,3.5355918764067935,False,6,False,3,,0.00023014959723820482,0.0,0.24992935918271542,276455,stage2,78210,missing_stage1_filled_seed,78192,,False
+True,104006,,cache_unknown,case_064,4,68.56934384256601,16907,final_elite,True,1.130655941326078,False,6,False,1,,0.0005911213572146361,0.0005911213572146361,0.2839855868369341,19116,stage3_pi,16917,missing_stage1_filled_seed,16917,,False
+False,103280,,cache_unknown,case_064,4,63.76641068980098,9754,final_elite,True,1.9598113594422801,False,6,False,2,,0.08807030665669409,0.0,0.2256100121885538,19116,stage2,10696,missing_stage1_filled_seed,9754,,False
+False,103280,0.29515418502202645,cache_unknown,case_064,4,63.91107850521803,9731,final_elite,True,1.964443530983455,False,6,False,3,,0.08808921375691126,0.0,0.23755035176873207,19116,stage2,10671,missing_stage1_filled_seed,9731,,False
+False,2656626,,cache_unknown,case_077,4,169.34597034193575,162204,final_elite,True,3.053685482478854,False,6,False,1,,0.00810860392588516,0.0,1.570464726537466,495320,stage2,163530,missing_stage1_filled_seed,162204,,False
+False,1352236,,cache_unknown,case_077,4,111.89386923983693,144254,final_elite,True,3.4336656175911933,False,6,False,2,,0.00346102034472039,0.0,1.0531477238982916,495320,stage2,144755,missing_stage1_filled_seed,144254,,False
+True,1352236,0.1731374606505771,cache_unknown,case_077,4,118.63124039955437,144242,final_elite,True,3.4339512763272833,False,6,False,3,,0.0033786818304302464,0.0,1.0940126236528158,495320,stage3_pi,144731,missing_stage1_filled_seed,144242,,False
+False,557056,,cache_unknown,case_093,4,72.17489005252719,31229,final_elite,True,2.376156777354382,False,6,False,1,,0.0,0.0,0.25749245285987854,74205,stage1_seed,31229,missing_stage1_filled_seed,31229,,False
+False,24576,,cache_unknown,case_093,4,67.78345078416169,19779,final_elite,True,3.751706355225239,False,6,False,2,,0.0,0.0,0.18557670712471008,74205,stage1_seed,19779,missing_stage1_filled_seed,19779,,False
+False,24576,0.0,cache_unknown,case_093,4,68.21588367782533,19779,final_elite,True,3.751706355225239,False,6,False,3,,0.0,0.0,0.18043769523501396,74205,stage1_seed,19779,missing_stage1_filled_seed,19779,,False
+,,,,case_016,,,,,,,,,,,"status=timeout
+reason=20-minute batch wall-clock cap reached before matrix completion
+algorithm_frozen=true",,,,,,,,,timeout_or_incomplete,
+,,,,case_067,,,,,,,,,,,"status=timeout
+reason=20-minute batch wall-clock cap reached before matrix completion
+algorithm_frozen=true",,,,,,,,,timeout_or_incomplete,
+,,,,case_072,,,,,,,,,,,"status=timeout
+reason=20-minute batch wall-clock cap reached before matrix completion
+algorithm_frozen=true",,,,,,,,,timeout_or_incomplete,
+,,,,case_079,,,,,,,,,,,"status=timeout
+reason=20-minute batch wall-clock cap reached before matrix completion
+algorithm_frozen=true",,,,,,,,,timeout_or_incomplete,

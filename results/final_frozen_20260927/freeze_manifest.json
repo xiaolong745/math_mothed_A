@@ -1,0 +1,128 @@
+{
+  "frozen_at": "2026-09-27",
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+  "files": {
+    "tools/run_final_portfolio.py": {
+      "sha256": "73c5f864165d663afc622c1911970b81a9ea0d53a298df12705ac6d50b5a125c",
+      "bytes": 17406
+    },
+    "tools/merge_final_portfolio.py": {
+      "sha256": "720172ffdcaa82ff9b3a12826c7c0fe2d1227c6301b7d06d78ffa601cc39f652",
+      "bytes": 8390
+    },
+    "scheduler/stage2.py": {
+      "sha256": "8240912b7ec0a25f1dbda11bfeed71b0c78bf09d4c16c677a765304f77a85ffd",
+      "bytes": 16049
+    },
+    "scheduler/refinement.py": {
+      "sha256": "bdf2c1b2d0ccc39fdf0dd1c366dc85f2c6a83d550ef8a85129a160208a5128f0",
+      "bytes": 21349
+    },
+    "scheduler/candidate.py": {
+      "sha256": "45e647794b8bebe999db0c9bc38c0514bc4d8d124ec4c75474f7a8a54d373172",
+      "bytes": 4141
+    },
+    "scheduler/evaluation/official_runner.py": {
+      "sha256": "9fa28cfee1b327808192f54a5653dd17dc523c9d30243dc9b038d220f1c11074",
+      "bytes": 4329
+    },
+    "scheduler/evaluation/pi_attribution.py": {
+      "sha256": "963ae257651c2ed58c803618930e89e9c46a5e8ad883cf470095cbc90152e9ac",
+      "bytes": 5317
+    },
+    "scheduler/generators/simple.py": {
+      "sha256": "6d3a02692effd88e3da7fc37060f2274c139ea6cf7305fb86be7384ae2bf85e1",
+      "bytes": 334
+    },
+    "scheduler/generators/region_grow.py": {
+      "sha256": "78151b1ba12680205b651953981b056d129ec4ecd2a792ce825c4d6560f8a4b9",
+      "bytes": 3194
+    },
+    "scheduler/generators/band_comp.py": {
+      "sha256": "35a947474a4dcd079d1061700086bb8206183a563c836dacea00eb2e3a11750c",
+      "bytes": 2079
+    },
+    "scheduler/generators/topological_segment.py": {
+      "sha256": "8dfac3125d62aa8f7ba9954918998e0cc7ebcca2c3f77c2c92674ba916e49d15",
+      "bytes": 819
+    },
+    "scheduler/schedulers/heft_lite.py": {
+      "sha256": "0ca667f02b8af55b8e359b443b059bb07059b9e39ec48c8dc2833911ce501181",
+      "bytes": 5161
+    },
+    "scheduler/search/portfolio.py": {
+      "sha256": "42b8f2b6ee13626088ad0ae8051736b72330051ec2f71d7cc6da9ba0332fc33d",
+      "bytes": 5401
+    },
+    "code/multicore_cut_evaluate_problem_1.py": {
+      "sha256": "2095f188a6c24ce3899f156bef21d50dcd87cbd9368488046b1e77e2bf91af3f",
+      "bytes": 23213
+    },
+    "code/multicore_cut_evaluate_problem_2.py": {
+      "sha256": "0b39f84d5ec0a7fba9a4c92a598a9044b97ab79c71393824c1ba130ecfe6c464",
+      "bytes": 26123
+    },
+    "code/multicore_cut_evaluate_problem_3.py": {
+      "sha256": "eab1504dead881f4b67c0f0498cbc2dbbd9039dc3c9d198c6af58773c127eeb0",
+      "bytes": 32112
+    },
+    "code/schedule_step1.py": {
+      "sha256": "d8fe721ff3dbe036e34a20c00cce6430960860000a49eb467e63465f76b84034",
+      "bytes": 7304
+    },
+    "code/schedule_step2.py": {
+      "sha256": "2836baac176f4e0bdd9eec59b8d9ce254e209e5f7a251e23837ab684312fa0c3",
+      "bytes": 23989
+    },
+    "code/schedule_step3.py": {
+      "sha256": "50053db0436f1d166dd75436693ba3af49b5c339576beb6e7299477f6b69fc7a",
+      "bytes": 30834
+    },
+    "data/config.txt": {
+      "sha256": "dcd10de54b23f8366428fb24e828812b1da9549e6eae4a3c3f38604fe5ae77b9",
+      "bytes": 341
+    },
+    "results/final/summary.csv": {
+      "sha256": "fce2d0deda3d2b508028dca5ddd8f7f193bc7d5cfbdb50117839b60e902a6085",
+      "bytes": 56982
+    },
+    "results/final/best_configs.json": {
+      "sha256": "4ab7784733a0c699038a7cc3829b156e7116a7ab6bda68df9a9a5c7beae6e728",
+      "bytes": 2858960
+    },
+    "results/final/metrics.json": {
+      "sha256": "56e4ed65fdb0185a834bb671ac13763a26b0eee178642a0d315e066369a0bb00",
+      "bytes": 38105
+    },
+    "results/final/evaluator_calls.csv": {
+      "sha256": "bedc45efe465154be1f14e9d18938db09dd8bc8df61dd14aaf29d180d44c5a1b",
+      "bytes": 65653065
+    },
+    "results/final/cache_candidate_list.csv": {
+      "sha256": "84d6bb91a5e06bc3c20f1aa52a5b1ed98f086aafc20b94f5af54545768dc5267",
+      "bytes": 3489
+    }
+  },
+  "algorithm_parameters": {
+    "max_seconds": 60.0,
+    "fast_top_k": 20,
+    "oracle_top_k": 6,
+    "max_evaluations": 20,
+    "pi_limit": 6,
+    "pi_radius": 2,
+    "cores": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "problems": [
+      1,
+      2,
+      3
+    ]
+  },
+  "matrix": "10 cases x 4 core counts x 3 problems",
+  "official_evaluator_unchanged": true
+}

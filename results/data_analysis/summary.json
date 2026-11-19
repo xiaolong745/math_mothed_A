@@ -1,0 +1,81 @@
+{
+  "input_count": 100,
+  "valid_count": 100,
+  "invalid_count": 0,
+  "classes": {
+    "small": 41,
+    "large": 19,
+    "medium": 40
+  },
+  "metrics": {
+    "ops_total": {
+      "min": 766,
+      "median": 4223.0,
+      "p90_nearest_rank": 18149,
+      "max": 38666,
+      "sum": 699118
+    },
+    "ops_compute": {
+      "min": 552,
+      "median": 3720.5,
+      "p90_nearest_rank": 17995,
+      "max": 35705,
+      "sum": 634506
+    },
+    "ops_copy": {
+      "min": 13,
+      "median": 315.0,
+      "p90_nearest_rank": 1555,
+      "max": 5385,
+      "sum": 64612
+    },
+    "tensors": {
+      "min": 816,
+      "median": 4590.5,
+      "p90_nearest_rank": 19210,
+      "max": 40287,
+      "sum": 747786
+    },
+    "edges_raw": {
+      "min": 1841,
+      "median": 11187.0,
+      "p90_nearest_rank": 51822,
+      "max": 108272,
+      "sum": 1867394
+    },
+    "cycles_compute": {
+      "min": 23052,
+      "median": 509952.0,
+      "p90_nearest_rank": 6975360,
+      "max": 61275840,
+      "sum": 317974184
+    },
+    "tensor_bytes_total": {
+      "min": 325708,
+      "median": 9366784.0,
+      "p90_nearest_rank": 70537108,
+      "max": 360593104,
+      "sum": 2937595716
+    },
+    "dag_depth": {
+      "min": 2,
+      "median": 46.5,
+      "p90_nearest_rank": 304,
+      "max": 2439,
+      "sum": 13031
+    },
+    "max_level_width": {
+      "min": 8,
+      "median": 217.5,
+      "p90_nearest_rank": 3066,
+      "max": 15921,
+      "sum": 141891
+    }
+  },
+  "pipe_totals": {
+    "PIPE_M_ops": 212149,
+    "PIPE_V_ops": 422357,
+    "PIPE_M_cycles": 272847723,
+    "PIPE_V_cycles": 45126461
+  }
+}

@@ -1,0 +1,11 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.png binary
+*.pdf binary
+*.gz binary
+# Preserve experiment evidence and official inputs byte for byte.
+/code/** -text
+/data/** -text
+/results/** -text

@@ -1,0 +1,1302 @@
+{
+  "combination_target": 120,
+  "case_count_seen": 10,
+  "completed_combinations": 120,
+  "failed_or_incomplete_combinations": 0,
+  "average_official_singlecore_speedup": 3.141926195586819,
+  "mean_final_makespan": 76613.1,
+  "improved_vs_stage1_count": 76,
+  "improved_vs_stage2_count": 34,
+  "pi_evaluated_count": 120,
+  "pi_improved_count": 36,
+  "pi_improvement_rate": 0.3,
+  "cache_candidate_count": 0,
+  "cache_improved_count": 0,
+  "cache_improvement_rate": null,
+  "official_evaluator_calls": 4008,
+  "official_evaluator_cache_hits": 447,
+  "all_final_rows_official": true,
+  "source": "results/final_remote_20260926",
+  "per_case": {
+    "case_001": {
+      "case_001|p1|k2": {
+        "elapsed_combo": 77.72350000403821,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p2|k2": {
+        "elapsed_combo": 68.17846304178238,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p3|k2": {
+        "elapsed_combo": 68.95577483065426,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p1|k3": {
+        "elapsed_combo": 77.20748241432011,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p2|k3": {
+        "elapsed_combo": 69.37407926283777,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p3|k3": {
+        "elapsed_combo": 69.89337993972003,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p1|k4": {
+        "elapsed_combo": 76.07097665965557,
+        "evaluator_calls": 29,
+        "evaluator_cache_hits": 6,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p2|k4": {
+        "elapsed_combo": 67.3973770532757,
+        "evaluator_calls": 29,
+        "evaluator_cache_hits": 6,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p3|k4": {
+        "elapsed_combo": 67.96532960236073,
+        "evaluator_calls": 29,
+        "evaluator_cache_hits": 6,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p1|k5": {
+        "elapsed_combo": 77.84808125160635,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p2|k5": {
+        "elapsed_combo": 68.2152240127325,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_001|p3|k5": {
+        "elapsed_combo": 68.35865301266313,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 366,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_002": {
+      "case_002|p1|k2": {
+        "elapsed_combo": 89.32268758490682,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 2,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p2|k2": {
+        "elapsed_combo": 89.05262147635221,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p3|k2": {
+        "elapsed_combo": 89.7054762095213,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p1|k3": {
+        "elapsed_combo": 87.25056466646492,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p2|k3": {
+        "elapsed_combo": 85.73788975551724,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p3|k3": {
+        "elapsed_combo": 86.9805972315371,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p1|k4": {
+        "elapsed_combo": 79.31844423152506,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p2|k4": {
+        "elapsed_combo": 80.82038526982069,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p3|k4": {
+        "elapsed_combo": 82.40367163531482,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p1|k5": {
+        "elapsed_combo": 89.56034605577588,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p2|k5": {
+        "elapsed_combo": 80.25628197938204,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_002|p3|k5": {
+        "elapsed_combo": 80.24426147341728,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 438,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_004": {
+      "case_004|p1|k2": {
+        "elapsed_combo": 76.77187626995146,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p2|k2": {
+        "elapsed_combo": 70.7884176466614,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p3|k2": {
+        "elapsed_combo": 71.19618819095194,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p1|k3": {
+        "elapsed_combo": 79.54709230735898,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 2,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p2|k3": {
+        "elapsed_combo": 69.47704441659153,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p3|k3": {
+        "elapsed_combo": 69.40421326644719,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p1|k4": {
+        "elapsed_combo": 73.07808395661414,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p2|k4": {
+        "elapsed_combo": 69.41435121186078,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p3|k4": {
+        "elapsed_combo": 69.64170743338764,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p1|k5": {
+        "elapsed_combo": 74.81339293718338,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p2|k5": {
+        "elapsed_combo": 70.90978635288775,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_004|p3|k5": {
+        "elapsed_combo": 71.17086884379387,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 409,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_006": {
+      "case_006|p1|k2": {
+        "elapsed_combo": 73.41260031983256,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p2|k2": {
+        "elapsed_combo": 71.07242059893906,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p3|k2": {
+        "elapsed_combo": 70.80963140912354,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p1|k3": {
+        "elapsed_combo": 74.46981512010098,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p2|k3": {
+        "elapsed_combo": 69.06679177843034,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p3|k3": {
+        "elapsed_combo": 71.12642513029277,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p1|k4": {
+        "elapsed_combo": 61.433299401775,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p2|k4": {
+        "elapsed_combo": 67.39616640470922,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p3|k4": {
+        "elapsed_combo": 67.97986731678247,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p1|k5": {
+        "elapsed_combo": 74.82620163820684,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p2|k5": {
+        "elapsed_combo": 70.53905208781362,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_006|p3|k5": {
+        "elapsed_combo": 71.41369378753006,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 454,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_008": {
+      "case_008|p1|k2": {
+        "elapsed_combo": 83.35192935541272,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p2|k2": {
+        "elapsed_combo": 71.93676036410034,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p3|k2": {
+        "elapsed_combo": 73.68988153897226,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p1|k3": {
+        "elapsed_combo": 82.60139888711274,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p2|k3": {
+        "elapsed_combo": 72.73516051843762,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p3|k3": {
+        "elapsed_combo": 73.72048477083445,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p1|k4": {
+        "elapsed_combo": 74.0099346768111,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p2|k4": {
+        "elapsed_combo": 70.74394291639328,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p3|k4": {
+        "elapsed_combo": 71.63113017752767,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p1|k5": {
+        "elapsed_combo": 83.5987950693816,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p2|k5": {
+        "elapsed_combo": 74.72986807115376,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_008|p3|k5": {
+        "elapsed_combo": 75.03336964920163,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 8,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 403,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_010": {
+      "case_010|p1|k2": {
+        "elapsed_combo": 73.21124150417745,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p2|k2": {
+        "elapsed_combo": 68.87925446033478,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p3|k2": {
+        "elapsed_combo": 68.80758778192103,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p1|k3": {
+        "elapsed_combo": 74.04467857256532,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p2|k3": {
+        "elapsed_combo": 68.48770490474999,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p3|k3": {
+        "elapsed_combo": 69.1499999538064,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p1|k4": {
+        "elapsed_combo": 68.21999565139413,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p2|k4": {
+        "elapsed_combo": 67.07398870773613,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p3|k4": {
+        "elapsed_combo": 67.17395084537566,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p1|k5": {
+        "elapsed_combo": 72.18276172876358,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p2|k5": {
+        "elapsed_combo": 70.29958819970489,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_010|p3|k5": {
+        "elapsed_combo": 70.11754992045462,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 372,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_012": {
+      "case_012|p1|k2": {
+        "elapsed_combo": 81.28137279674411,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p2|k2": {
+        "elapsed_combo": 76.17995522171259,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p3|k2": {
+        "elapsed_combo": 75.84910686314106,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p1|k3": {
+        "elapsed_combo": 81.3622390832752,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p2|k3": {
+        "elapsed_combo": 76.6704104654491,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 2,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p3|k3": {
+        "elapsed_combo": 77.3915870077908,
+        "evaluator_calls": 37,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 2,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p1|k4": {
+        "elapsed_combo": 72.63239269517362,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p2|k4": {
+        "elapsed_combo": 70.07774747163057,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p3|k4": {
+        "elapsed_combo": 70.89073612354696,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 1,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p1|k5": {
+        "elapsed_combo": 82.9250454083085,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p2|k5": {
+        "elapsed_combo": 74.87096261233091,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_012|p3|k5": {
+        "elapsed_combo": 76.71257887594402,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 442,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_013": {
+      "case_013|p1|k2": {
+        "elapsed_combo": 129.37208728305995,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p2|k2": {
+        "elapsed_combo": 89.12335712462664,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p3|k2": {
+        "elapsed_combo": 88.39541684649885,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p1|k3": {
+        "elapsed_combo": 121.10667899437249,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p2|k3": {
+        "elapsed_combo": 87.62269456870854,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p3|k3": {
+        "elapsed_combo": 88.24428669176996,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p1|k4": {
+        "elapsed_combo": 121.97531338967383,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p2|k4": {
+        "elapsed_combo": 89.41924971528351,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p3|k4": {
+        "elapsed_combo": 88.71927753090858,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p1|k5": {
+        "elapsed_combo": 130.78318599238992,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p2|k5": {
+        "elapsed_combo": 90.91313033550978,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 7,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_013|p3|k5": {
+        "elapsed_combo": 93.52962000668049,
+        "evaluator_calls": 32,
+        "evaluator_cache_hits": 4,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 355,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_017": {
+      "case_017|p1|k2": {
+        "elapsed_combo": 80.58165556937456,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 2,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p2|k2": {
+        "elapsed_combo": 76.20302148535848,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p3|k2": {
+        "elapsed_combo": 77.41192489117384,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p1|k3": {
+        "elapsed_combo": 85.3377253357321,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p2|k3": {
+        "elapsed_combo": 76.03782587125897,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p3|k3": {
+        "elapsed_combo": 77.39578671194613,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p1|k4": {
+        "elapsed_combo": 78.91759425774217,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p2|k4": {
+        "elapsed_combo": 72.08812216483057,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p3|k4": {
+        "elapsed_combo": 72.42021974734962,
+        "evaluator_calls": 28,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p1|k5": {
+        "elapsed_combo": 84.46971309371293,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p2|k5": {
+        "elapsed_combo": 76.03034280799329,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_017|p3|k5": {
+        "elapsed_combo": 78.64358698390424,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 368,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    },
+    "case_023": {
+      "case_023|p1|k2": {
+        "elapsed_combo": 90.62127745710313,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 3,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p2|k2": {
+        "elapsed_combo": 72.98398723267019,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p3|k2": {
+        "elapsed_combo": 72.92402486130595,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p1|k3": {
+        "elapsed_combo": 90.78282134234905,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 5,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p2|k3": {
+        "elapsed_combo": 74.40503318794072,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p3|k3": {
+        "elapsed_combo": 74.72199717536569,
+        "evaluator_calls": 36,
+        "evaluator_cache_hits": 3,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p1|k4": {
+        "elapsed_combo": 73.89364669471979,
+        "evaluator_calls": 27,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p2|k4": {
+        "elapsed_combo": 70.98302793316543,
+        "evaluator_calls": 27,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p3|k4": {
+        "elapsed_combo": 71.63058044947684,
+        "evaluator_calls": 27,
+        "evaluator_cache_hits": 0,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p1|k5": {
+        "elapsed_combo": 79.71279792673886,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 2,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p2|k5": {
+        "elapsed_combo": 73.764723258093,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 2,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 1,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "case_023|p3|k5": {
+        "elapsed_combo": 73.95284794270992,
+        "evaluator_calls": 34,
+        "evaluator_cache_hits": 2,
+        "oracle_calls": 0,
+        "pi_candidates": 6,
+        "accepted_pi_moves": 0,
+        "status": "ok",
+        "official_evaluated": true
+      },
+      "matrix": {
+        "combination_count": 12,
+        "completed_count": 12,
+        "official_evaluator_calls": 401,
+        "cache_policy_source": "/root/nn_scheduler_stage2/results/stage3/cache_candidate_list.csv"
+      }
+    }
+  }
+}

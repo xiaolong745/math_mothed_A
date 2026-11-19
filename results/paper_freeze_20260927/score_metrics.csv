@@ -1,0 +1,4 @@
+problem,cores,cases,mean_speedup,residency_revalidated_rows
+1,5,10,3.4598160166842047,1
+2,5,10,4.482765652182123,1
+3,5,10,4.568239022471531,1

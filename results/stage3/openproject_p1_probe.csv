@@ -1,0 +1,11 @@
+added_copy_bytes,case,cores,makespan,official_evaluated,plan_path,problem,runtime_seconds
+115214,case_064,5,15622,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_064_p1_k5.json,1,0.17315034198691137
+369506,case_071,5,12426,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_071_p1_k5.json,1,0.15400457300711423
+508936,case_069,5,15363,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_069_p1_k5.json,1,0.1961676540086046
+782666,case_048,5,153687,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_048_p1_k5.json,1,0.3686004400078673
+1765502,case_005,5,56931,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_005_p1_k5.json,1,0.7836206850188319
+73728,case_093,5,16879,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_093_p1_k5.json,1,0.12099548502010293
+31559680,case_073,5,2124193,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_073_p1_k5.json,1,2.4059515459812246
+35954688,case_058,5,1099026,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_058_p1_k5.json,1,8.602033900999231
+60440,case_022,5,13185,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_022_p1_k5.json,1,0.2218048940121662
+443912,case_023,5,29235,True,/tmp/openproject_2026.Xvk57g/results/best_plans/case_023_p1_k5.json,1,0.17035616299835965

@@ -1,0 +1,31 @@
+added_copy_bytes,best_generator,best_params,cache_hit_rate,candidate_count,case,legal_candidate_count,makespan,num_cores,problem,search_runtime
+229248,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 37}",,3,case_001,3,102300,4,1,0.9731392649991903
+3456,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 37}",,3,case_001,3,58984,4,2,0.390308775997255
+3456,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 37}",0.0,3,case_001,3,58984,4,3,0.4156388830015203
+115200,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 128}",,7,case_002,7,79746,4,1,6.756181987002492
+1999872,bandcomp,"{""band_width"": 4, ""max_depth"": 23, ""max_ops_per_sg"": 256}",,7,case_002,7,66836,4,2,2.9568362220015842
+1999872,bandcomp,"{""band_width"": 4, ""max_depth"": 23, ""max_ops_per_sg"": 256}",0.0,7,case_002,7,66836,4,3,3.208120030001737
+12165120,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 48}",,4,case_004,4,252303,4,1,1.4774167489958927
+2036736,bandcomp,"{""band_width"": 4, ""max_depth"": 5, ""max_ops_per_sg"": 192}",,4,case_004,4,101324,4,2,0.7790546879987232
+2036736,bandcomp,"{""band_width"": 4, ""max_depth"": 5, ""max_ops_per_sg"": 192}",0.3217391304347826,4,case_004,4,101324,4,3,0.8206096130015794
+511204,bandcomp,"{""band_width"": 8, ""max_depth"": 21, ""max_ops_per_sg"": 168}",,7,case_006,7,27298,4,1,2.003081654009293
+356660,bandcomp,"{""band_width"": 8, ""max_depth"": 21, ""max_ops_per_sg"": 168}",,7,case_006,7,26843,4,2,1.1363090180093423
+356660,bandcomp,"{""band_width"": 8, ""max_depth"": 21, ""max_ops_per_sg"": 168}",0.125,7,case_006,7,26843,4,3,1.17883970598632
+0,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 54}",,4,case_008,4,157796,4,1,1.6087082700105384
+3096576,bandcomp,"{""band_width"": 4, ""max_depth"": 7, ""max_ops_per_sg"": 216}",,4,case_008,4,104264,4,2,0.8307009740092326
+3096576,bandcomp,"{""band_width"": 4, ""max_depth"": 7, ""max_ops_per_sg"": 216}",0.0,4,case_008,4,104264,4,3,0.9011531010037288
+710360,bandcomp,"{""band_width"": 8, ""max_depth"": 61, ""max_ops_per_sg"": 164}",,7,case_010,7,29641,4,1,1.9654984939988935
+1043216,bandcomp,"{""band_width"": 4, ""max_depth"": 61, ""max_ops_per_sg"": 164}",,7,case_010,7,26456,4,2,1.067977446000441
+1043216,bandcomp,"{""band_width"": 4, ""max_depth"": 61, ""max_ops_per_sg"": 164}",0.23622047244094488,7,case_010,7,24468,4,3,1.150864298993838
+101376,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 120}",,7,case_012,7,20265,4,1,3.2828692129987758
+49536,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 120}",,7,case_012,7,14689,4,2,1.5627622960018925
+49536,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 120}",0.09574468085106383,7,case_012,7,14689,4,3,1.689681585994549
+2007040,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 64}",,3,case_013,3,108774,4,1,4.416087099001743
+24576,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 64}",,3,case_013,3,66982,4,2,1.5104792110068956
+24576,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 64}",0.0,3,case_013,3,66982,4,3,1.6577159089938505
+965780,bandcomp,"{""band_width"": 8, ""max_depth"": 17, ""max_ops_per_sg"": 256}",,6,case_017,6,54009,4,1,4.691407362013706
+330340,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 64}",,6,case_017,6,40210,4,2,2.0027067359915236
+330340,region_grow,"{""communication_weight"": 1.0, ""critical_weight"": 0.01, ""depth_window"": 0, ""max_ops_per_sg"": 64}",0.10840108401084012,6,case_017,6,39739,4,3,2.1331521609972697
+1156156,bandcomp,"{""band_width"": 8, ""max_depth"": 30, ""max_ops_per_sg"": 252}",,5,case_023,5,45654,4,1,2.882367426995188
+893988,bandcomp,"{""band_width"": 8, ""max_depth"": 30, ""max_ops_per_sg"": 252}",,5,case_023,5,34043,4,2,1.3165136790048564
+893988,bandcomp,"{""band_width"": 8, ""max_depth"": 30, ""max_ops_per_sg"": 252}",0.10256410256410256,5,case_023,5,31860,4,3,1.4212069049972342
